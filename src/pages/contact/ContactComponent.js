@@ -55,7 +55,18 @@ class Contact extends Component {
               </div>
             </div>
           </Fade>
-          <Fade bottom duration={1000} distance="40px">
+        </div>
+        <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
+        <TopButton theme={this.props.theme} />
+      </div>
+    );
+  }
+}
+
+export default Contact;
+
+/*
+Fade bottom duration={1000} distance="40px">
             <div className="blog-heading-div">
               <div className="blog-heading-text-div">
                 <h1 className="blog-heading-text" style={{ color: theme.text }}>
@@ -80,62 +91,54 @@ class Contact extends Component {
                 {/* <img
 											src={require(`../../assets/images/${blogSection["avatar_image_path"]}`)}
 											alt=""
-										/> */}
-                <BlogsImg theme={theme} />
-              </div>
-            </div>
-          </Fade>
-          <Fade bottom duration={1000} distance="40px">
-            <div className="address-heading-div">
-              <div className="contact-heading-img-div">
-                {/* <img
-											src={require(`../../assets/images/${addressSection["avatar_image_path"]}`)}
-											alt=""
-										/> */}
-                <AddressImg theme={theme} />
-              </div>
-              <div className="address-heading-text-div">
-                <h1
-                  className="address-heading-text"
-                  style={{ color: theme.text }}
-                >
-                  {addressSection["title"]}
-                </h1>
-                <p
-                  className="contact-header-detail-text subTitle"
-                  style={{ color: theme.secondaryText }}
-                >
-                  {addressSection["subtitle"]}
-                </p>
-                <h1
-                  className="address-heading-text"
-                  style={{ color: theme.text }}
-                >
-                  {phoneSection["title"]}
-                </h1>
-                <p
-                  className="contact-header-detail-text subTitle"
-                  style={{ color: theme.secondaryText }}
-                >
-                  {phoneSection["subtitle"]}
-                </p>
-                <div className="address-btn-div">
-                  <Button
-                    text="Visit on Google Maps"
-                    newTab={true}
-                    href={addressSection.location_map_link}
-                    theme={theme}
-                  />
-                </div>
-              </div>
-            </div>
-          </Fade>
-        </div>
-        <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
-        <TopButton theme={this.props.theme} />
-      </div>
-    );
-  }
-}
-
-export default Contact;
+										/> }
+                    <BlogsImg theme={theme} />
+                    </div>
+                  </div>
+                </Fade>
+                <Fade bottom duration={1000} distance="40px">
+                  <div className="address-heading-div">
+                    <div className="contact-heading-img-div">
+                      {/* <img
+                            src={require(`../../assets/images/${addressSection["avatar_image_path"]}`)}
+                            alt=""
+                          /> }
+                      <AddressImg theme={theme} />
+                    </div>
+                    <div className="address-heading-text-div">
+                      <h1
+                        className="address-heading-text"
+                        style={{ color: theme.text }}
+                      >
+                        {addressSection["title"]}
+                      </h1>
+                      <p
+                        className="contact-header-detail-text subTitle"
+                        style={{ color: theme.secondaryText }}
+                      >
+                        {addressSection["subtitle"]}
+                      </p>
+                      <h1
+                        className="address-heading-text"
+                        style={{ color: theme.text }}
+                      >
+                        {phoneSection["title"]}
+                      </h1>
+                      <p
+                        className="contact-header-detail-text subTitle"
+                        style={{ color: theme.secondaryText }}
+                      >
+                        {phoneSection["subtitle"]}
+                      </p>
+                      <div className="address-btn-div">
+                        <Button
+                          text="Visit on Google Maps"
+                          newTab={true}
+                          href={addressSection.location_map_link}
+                          theme={theme}
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </Fade>
+*/

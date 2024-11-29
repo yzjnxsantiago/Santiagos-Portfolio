@@ -62,7 +62,17 @@ class Projects extends Component {
           theme={theme}
         />
 
-        {/* Publications  */}
+        <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
+        <TopButton theme={this.props.theme} />
+      </div>
+    );
+  }
+}
+
+export default Projects;
+
+/*
+        {/* Publications  }
         {publications.data.length > 0 ? (
           <div className="basic-projects">
             <Fade bottom duration={2000} distance="40px">
@@ -91,12 +101,4 @@ class Projects extends Component {
             return <PublicationCard pub={pub} theme={theme} />;
           })}
         </div>
-
-        <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
-        <TopButton theme={this.props.theme} />
-      </div>
-    );
-  }
-}
-
-export default Projects;
+*/
