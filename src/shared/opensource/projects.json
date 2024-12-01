@@ -13,6 +13,15 @@
           "iconifyClass": "logos-python"
         }
       ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMzQwMzY5Nzc=",
+      "name": "ELEC291-lab2",
+      "createdAt": "2021-01-29T04:26:12Z",
+      "url": "https://github.com/yzjnxsantiago/ELEC291-lab2",
+      "description": "Alarm Clock programmed on an 8051 Microprocessor in Assembly",
+      "isFork": false,
+      "languages": []
     }
   ]
 }

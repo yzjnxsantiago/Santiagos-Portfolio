@@ -1,7 +1,738 @@
 {
-  "closed": 0,
-  "data": [],
-  "merged": 0,
+  "closed": 5,
+  "data": [
+    {
+      "id": "PR_kwDOL7Fcbs5xd8UZ",
+      "title": "Update Santiagos Branch",
+      "url": "https://github.com/CodePlace-LLC/CodePlace2/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/169705932?v=4",
+        "url": "https://github.com/Dsp672CodePlace",
+        "login": "Dsp672CodePlace"
+      },
+      "createdAt": "2024-06-04T20:09:12Z",
+      "number": 2,
+      "changedFiles": 15,
+      "additions": 1344,
+      "deletions": 296,
+      "baseRepository": {
+        "name": "CodePlace2",
+        "url": "https://github.com/CodePlace-LLC/CodePlace2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/169718040?v=4",
+          "login": "CodePlace-LLC",
+          "url": "https://github.com/CodePlace-LLC"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjEyNzUyMDg1",
+      "title": "Updated",
+      "url": "https://github.com/ELEC291-Project2/Metal-Detector/pull/17",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-04-09T22:06:41Z",
+      "number": 17,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Metal-Detector",
+        "url": "https://github.com/ELEC291-Project2/Metal-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81190873?v=4",
+          "login": "ELEC291-Project2",
+          "url": "https://github.com/ELEC291-Project2"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjEyNzM5Nzg0",
+      "title": "Added a delay for feedback",
+      "url": "https://github.com/ELEC291-Project2/Metal-Detector/pull/16",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-04-09T21:31:42Z",
+      "number": 16,
+      "changedFiles": 3,
+      "additions": 66,
+      "deletions": 43,
+      "baseRepository": {
+        "name": "Metal-Detector",
+        "url": "https://github.com/ELEC291-Project2/Metal-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81190873?v=4",
+          "login": "ELEC291-Project2",
+          "url": "https://github.com/ELEC291-Project2"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjEyMTAzNDUy",
+      "title": "Santiago",
+      "url": "https://github.com/ELEC291-Project2/Metal-Detector/pull/15",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-04-09T02:53:32Z",
+      "number": 15,
+      "changedFiles": 5,
+      "additions": 86,
+      "deletions": 117,
+      "baseRepository": {
+        "name": "Metal-Detector",
+        "url": "https://github.com/ELEC291-Project2/Metal-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81190873?v=4",
+          "login": "ELEC291-Project2",
+          "url": "https://github.com/ELEC291-Project2"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjExMTUyMTU0",
+      "title": "Santiago",
+      "url": "https://github.com/ELEC291-Project2/Metal-Detector/pull/13",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-04-08T02:06:25Z",
+      "number": 13,
+      "changedFiles": 13,
+      "additions": 1013,
+      "deletions": 1011,
+      "baseRepository": {
+        "name": "Metal-Detector",
+        "url": "https://github.com/ELEC291-Project2/Metal-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81190873?v=4",
+          "login": "ELEC291-Project2",
+          "url": "https://github.com/ELEC291-Project2"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjEwMjcxOTY3",
+      "title": "Updated Period.c",
+      "url": "https://github.com/ELEC291-Project2/Metal-Detector/pull/11",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-04-07T02:01:22Z",
+      "number": 11,
+      "changedFiles": 6,
+      "additions": 1030,
+      "deletions": 1016,
+      "baseRepository": {
+        "name": "Metal-Detector",
+        "url": "https://github.com/ELEC291-Project2/Metal-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81190873?v=4",
+          "login": "ELEC291-Project2",
+          "url": "https://github.com/ELEC291-Project2"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjEwMjY3OTQx",
+      "title": "Santiago",
+      "url": "https://github.com/ELEC291-Project2/Metal-Detector/pull/10",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-04-07T01:47:34Z",
+      "number": 10,
+      "changedFiles": 17,
+      "additions": 4153,
+      "deletions": 4149,
+      "baseRepository": {
+        "name": "Metal-Detector",
+        "url": "https://github.com/ELEC291-Project2/Metal-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81190873?v=4",
+          "login": "ELEC291-Project2",
+          "url": "https://github.com/ELEC291-Project2"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjA5Mjg3NTcy",
+      "title": "Santiago",
+      "url": "https://github.com/ELEC291-Project2/Metal-Detector/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-04-05T22:34:56Z",
+      "number": 8,
+      "changedFiles": 12,
+      "additions": 3063,
+      "deletions": 16,
+      "baseRepository": {
+        "name": "Metal-Detector",
+        "url": "https://github.com/ELEC291-Project2/Metal-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81190873?v=4",
+          "login": "ELEC291-Project2",
+          "url": "https://github.com/ELEC291-Project2"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjA4NjE1Mzc3",
+      "title": "Sound",
+      "url": "https://github.com/ELEC291-Project2/Metal-Detector/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-04-04T21:39:24Z",
+      "number": 3,
+      "changedFiles": 9,
+      "additions": 1873,
+      "deletions": 1674,
+      "baseRepository": {
+        "name": "Metal-Detector",
+        "url": "https://github.com/ELEC291-Project2/Metal-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81190873?v=4",
+          "login": "ELEC291-Project2",
+          "url": "https://github.com/ELEC291-Project2"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjA4NjA1NDIz",
+      "title": "Added GUI and merged reciever.c",
+      "url": "https://github.com/ELEC291-Project2/Metal-Detector/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-04-04T20:18:56Z",
+      "number": 2,
+      "changedFiles": 28,
+      "additions": 3176,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Metal-Detector",
+        "url": "https://github.com/ELEC291-Project2/Metal-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81190873?v=4",
+          "login": "ELEC291-Project2",
+          "url": "https://github.com/ELEC291-Project2"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAxOTc5OTEw",
+      "title": "Santiago branch 4.0",
+      "url": "https://github.com/UBC-Game-Dev-Team4/Main-Game-fIles/pull/42",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-03-27T01:49:07Z",
+      "number": 42,
+      "changedFiles": 2,
+      "additions": 524,
+      "deletions": 258,
+      "baseRepository": {
+        "name": "Main-Game-fIles",
+        "url": "https://github.com/UBC-Game-Dev-Team4/Main-Game-fIles",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/72585950?v=4",
+          "login": "UBC-Game-Dev-Team4",
+          "url": "https://github.com/UBC-Game-Dev-Team4"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAxOTc5MTUw",
+      "title": "Santiago branch 4.0",
+      "url": "https://github.com/UBC-Game-Dev-Team4/Main-Game-fIles/pull/41",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-03-27T01:43:27Z",
+      "number": 41,
+      "changedFiles": 2,
+      "additions": 524,
+      "deletions": 258,
+      "baseRepository": {
+        "name": "Main-Game-fIles",
+        "url": "https://github.com/UBC-Game-Dev-Team4/Main-Game-fIles",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/72585950?v=4",
+          "login": "UBC-Game-Dev-Team4",
+          "url": "https://github.com/UBC-Game-Dev-Team4"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTk3MzY1MTkx",
+      "title": "Santiago branch 4.0",
+      "url": "https://github.com/UBC-Game-Dev-Team4/Main-Game-fIles/pull/39",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-03-20T21:49:35Z",
+      "number": 39,
+      "changedFiles": 124,
+      "additions": 54949,
+      "deletions": 95298,
+      "baseRepository": {
+        "name": "Main-Game-fIles",
+        "url": "https://github.com/UBC-Game-Dev-Team4/Main-Game-fIles",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/72585950?v=4",
+          "login": "UBC-Game-Dev-Team4",
+          "url": "https://github.com/UBC-Game-Dev-Team4"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTgwNDc5Mjgx",
+      "title": "Santiagos branch",
+      "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector/pull/38",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-02-25T23:31:06Z",
+      "number": 38,
+      "changedFiles": 10,
+      "additions": 56,
+      "deletions": 29,
+      "baseRepository": {
+        "name": "Capacitance-Water-Level-Detector",
+        "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78880456?v=4",
+          "login": "ELEC291-Project1",
+          "url": "https://github.com/ELEC291-Project1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc5ODIyNzM5",
+      "title": "Santiagos branch",
+      "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector/pull/33",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-02-25T05:40:38Z",
+      "number": 33,
+      "changedFiles": 11,
+      "additions": 54,
+      "deletions": 32,
+      "baseRepository": {
+        "name": "Capacitance-Water-Level-Detector",
+        "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78880456?v=4",
+          "login": "ELEC291-Project1",
+          "url": "https://github.com/ELEC291-Project1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc5NjE0NTA3",
+      "title": "Added Wav File",
+      "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector/pull/26",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-02-24T21:14:39Z",
+      "number": 26,
+      "changedFiles": 12,
+      "additions": 10,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "Capacitance-Water-Level-Detector",
+        "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78880456?v=4",
+          "login": "ELEC291-Project1",
+          "url": "https://github.com/ELEC291-Project1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc5NTk2MzY4",
+      "title": "Updated GUI",
+      "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector/pull/25",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-02-24T20:40:12Z",
+      "number": 25,
+      "changedFiles": 8,
+      "additions": 181,
+      "deletions": 36,
+      "baseRepository": {
+        "name": "Capacitance-Water-Level-Detector",
+        "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78880456?v=4",
+          "login": "ELEC291-Project1",
+          "url": "https://github.com/ELEC291-Project1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc3OTI2ODgz",
+      "title": "Santiagos branch",
+      "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector/pull/23",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-02-22T20:43:09Z",
+      "number": 23,
+      "changedFiles": 10,
+      "additions": 9,
+      "deletions": 9,
+      "baseRepository": {
+        "name": "Capacitance-Water-Level-Detector",
+        "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78880456?v=4",
+          "login": "ELEC291-Project1",
+          "url": "https://github.com/ELEC291-Project1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc3OTIyNDgx",
+      "title": "Santiagos branch",
+      "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector/pull/22",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-02-22T20:35:07Z",
+      "number": 22,
+      "changedFiles": 10,
+      "additions": 167,
+      "deletions": 138,
+      "baseRepository": {
+        "name": "Capacitance-Water-Level-Detector",
+        "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78880456?v=4",
+          "login": "ELEC291-Project1",
+          "url": "https://github.com/ELEC291-Project1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc3OTIxMDAy",
+      "title": "Updated the GUI and Assembly",
+      "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector/pull/20",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-02-22T20:32:33Z",
+      "number": 20,
+      "changedFiles": 10,
+      "additions": 169,
+      "deletions": 140,
+      "baseRepository": {
+        "name": "Capacitance-Water-Level-Detector",
+        "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78880456?v=4",
+          "login": "ELEC291-Project1",
+          "url": "https://github.com/ELEC291-Project1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc3MTYyODkw",
+      "title": "Santiagos branch",
+      "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector/pull/16",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-02-21T19:11:09Z",
+      "number": 16,
+      "changedFiles": 4,
+      "additions": 2,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Capacitance-Water-Level-Detector",
+        "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78880456?v=4",
+          "login": "ELEC291-Project1",
+          "url": "https://github.com/ELEC291-Project1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc3MTYyNzc1",
+      "title": "Added Wav file",
+      "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector/pull/15",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-02-21T19:10:15Z",
+      "number": 15,
+      "changedFiles": 7,
+      "additions": 3,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "Capacitance-Water-Level-Detector",
+        "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78880456?v=4",
+          "login": "ELEC291-Project1",
+          "url": "https://github.com/ELEC291-Project1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc3MTYwOTk0",
+      "title": "Brian's branch",
+      "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector/pull/14",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-02-21T18:57:25Z",
+      "number": 14,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "Capacitance-Water-Level-Detector",
+        "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78880456?v=4",
+          "login": "ELEC291-Project1",
+          "url": "https://github.com/ELEC291-Project1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc3MTU3MDQ4",
+      "title": "Santiagos branch",
+      "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector/pull/11",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-02-21T18:29:09Z",
+      "number": 11,
+      "changedFiles": 18,
+      "additions": 162,
+      "deletions": 53,
+      "baseRepository": {
+        "name": "Capacitance-Water-Level-Detector",
+        "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78880456?v=4",
+          "login": "ELEC291-Project1",
+          "url": "https://github.com/ELEC291-Project1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc3MTU1Njk1",
+      "title": "Santiagos branch",
+      "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector/pull/10",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-02-21T18:20:29Z",
+      "number": 10,
+      "changedFiles": 18,
+      "additions": 153,
+      "deletions": 54,
+      "baseRepository": {
+        "name": "Capacitance-Water-Level-Detector",
+        "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78880456?v=4",
+          "login": "ELEC291-Project1",
+          "url": "https://github.com/ELEC291-Project1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc3MTU0NzM0",
+      "title": "Updated GUI",
+      "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector/pull/9",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-02-21T18:14:13Z",
+      "number": 9,
+      "changedFiles": 18,
+      "additions": 153,
+      "deletions": 54,
+      "baseRepository": {
+        "name": "Capacitance-Water-Level-Detector",
+        "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78880456?v=4",
+          "login": "ELEC291-Project1",
+          "url": "https://github.com/ELEC291-Project1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc3MDI3MTA1",
+      "title": "Shad branch",
+      "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-02-21T00:24:08Z",
+      "number": 6,
+      "changedFiles": 11,
+      "additions": 637,
+      "deletions": 559,
+      "baseRepository": {
+        "name": "Capacitance-Water-Level-Detector",
+        "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78880456?v=4",
+          "login": "ELEC291-Project1",
+          "url": "https://github.com/ELEC291-Project1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc3MDE5NzE4",
+      "title": "Update to gui",
+      "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-02-20T23:09:54Z",
+      "number": 5,
+      "changedFiles": 14,
+      "additions": 643,
+      "deletions": 617,
+      "baseRepository": {
+        "name": "Capacitance-Water-Level-Detector",
+        "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78880456?v=4",
+          "login": "ELEC291-Project1",
+          "url": "https://github.com/ELEC291-Project1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc2MDYyNjE1",
+      "title": "Added some GUI and Serial Port",
+      "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-02-18T23:21:10Z",
+      "number": 4,
+      "changedFiles": 30,
+      "additions": 1332,
+      "deletions": 14,
+      "baseRepository": {
+        "name": "Capacitance-Water-Level-Detector",
+        "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78880456?v=4",
+          "login": "ELEC291-Project1",
+          "url": "https://github.com/ELEC291-Project1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc0NTY0MDI3",
+      "title": "Index to each sound byte",
+      "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2021-02-17T00:45:10Z",
+      "number": 2,
+      "changedFiles": 4,
+      "additions": 413,
+      "deletions": 239,
+      "baseRepository": {
+        "name": "Capacitance-Water-Level-Detector",
+        "url": "https://github.com/ELEC291-Project1/Capacitance-Water-Level-Detector",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78880456?v=4",
+          "login": "ELEC291-Project1",
+          "url": "https://github.com/ELEC291-Project1"
+        }
+      }
+    }
+  ],
+  "merged": 25,
   "open": 0,
-  "totalCount": 0
+  "totalCount": 30
 }

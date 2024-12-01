@@ -301,14 +301,14 @@ const skills = {
 // Education Page
 const competitiveSites = {
   competitiveSites: [
-    /*{
-      siteName: "LeetCode",
-      iconifyClassname: "simple-icons:leetcode",
+    {
+      siteName: "HackTheBox",
+      iconifyClassname: "simple-icons:hackthebox",
       style: {
-        color: "#F79F1B",
+        color: "#32CD32",
       },
-      profileLink: "https://leetcode.com/layman_brother/",
-    },*/
+      profileLink: "https://app.hackthebox.com/profile/2156010",
+    },
   ],
 };
 
@@ -418,7 +418,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "I have a wide variety of projects ranging from Python apps, to designing simple CPU architecture onto an FPGA. My most recent projects focus on cybersecurity and cloud computing",
+    "I have a wide variety of projects ranging from Python apps, to writing code for an alarm clock in assembly.",
   avatar_image_path: "projects_image.svg",
 };
 
