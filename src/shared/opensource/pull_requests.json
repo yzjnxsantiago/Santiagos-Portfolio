@@ -2,6 +2,81 @@
   "closed": 5,
   "data": [
     {
+      "id": "PR_kwDONZotbc6ER28-",
+      "title": "Updated az",
+      "url": "https://github.com/yzjnxsantiago/AWS-DevOps/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2024-12-06T06:27:07Z",
+      "number": 3,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "AWS-DevOps",
+        "url": "https://github.com/yzjnxsantiago/AWS-DevOps",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+          "login": "yzjnxsantiago",
+          "url": "https://github.com/yzjnxsantiago"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDONZotbc6ERnAM",
+      "title": "Fixed Backend",
+      "url": "https://github.com/yzjnxsantiago/AWS-DevOps/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2024-12-06T05:26:18Z",
+      "number": 2,
+      "changedFiles": 2,
+      "additions": 3,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "AWS-DevOps",
+        "url": "https://github.com/yzjnxsantiago/AWS-DevOps",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+          "login": "yzjnxsantiago",
+          "url": "https://github.com/yzjnxsantiago"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDONZotbc6ERbVQ",
+      "title": "Initial Commit",
+      "url": "https://github.com/yzjnxsantiago/AWS-DevOps/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+        "url": "https://github.com/yzjnxsantiago",
+        "login": "yzjnxsantiago"
+      },
+      "createdAt": "2024-12-06T04:45:51Z",
+      "number": 1,
+      "changedFiles": 10,
+      "additions": 102,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "AWS-DevOps",
+        "url": "https://github.com/yzjnxsantiago/AWS-DevOps",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60206129?u=1628d9873c31d1accc89ec988698b6822192d3c0&v=4",
+          "login": "yzjnxsantiago",
+          "url": "https://github.com/yzjnxsantiago"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOL7Fcbs5xd8UZ",
       "title": "Update Santiagos Branch",
       "url": "https://github.com/CodePlace-LLC/CodePlace2/pull/2",
@@ -732,7 +807,7 @@
       }
     }
   ],
-  "merged": 25,
+  "merged": 28,
   "open": 0,
-  "totalCount": 30
+  "totalCount": 33
 }

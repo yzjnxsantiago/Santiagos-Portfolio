@@ -16,10 +16,19 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMzQwMzY5Nzc=",
-      "name": "ELEC291-lab2",
+      "name": "8051-Alarm-Clock",
       "createdAt": "2021-01-29T04:26:12Z",
-      "url": "https://github.com/yzjnxsantiago/ELEC291-lab2",
+      "url": "https://github.com/yzjnxsantiago/8051-Alarm-Clock",
       "description": "Alarm Clock programmed on an 8051 Microprocessor in Assembly",
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "R_kgDONZotbQ",
+      "name": "AWS-DevOps",
+      "createdAt": "2024-12-06T01:33:01Z",
+      "url": "https://github.com/yzjnxsantiago/AWS-DevOps",
+      "description": "A Helpdesk deployed on AWS with automated provisioning of resources using Terraform",
       "isFork": false,
       "languages": []
     }
