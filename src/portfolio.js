@@ -299,7 +299,7 @@ const skills = {
 };
 
 // Education Page
-const competitiveSites = {
+/*const competitiveSites = {
   competitiveSites: [
     /*{
       siteName: "HackTheBox",
@@ -310,7 +310,7 @@ const competitiveSites = {
       profileLink: "https://app.hackthebox.com/profile/2156010",
     },*/
   ],
-};
+};*/
 
 const degrees = {
   degrees: [
