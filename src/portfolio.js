@@ -301,14 +301,14 @@ const skills = {
 // Education Page
 const competitiveSites = {
   competitiveSites: [
-    {
+    /*{
       siteName: "HackTheBox",
       iconifyClassname: "simple-icons:hackthebox",
       style: {
         color: "#32CD32",
       },
       profileLink: "https://app.hackthebox.com/profile/2156010",
-    },
+    },*/
   ],
 };
 
@@ -321,7 +321,7 @@ const degrees = {
       alt_name: "University of British Columbia",
       duration: "2019 - 2024",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms and Computer Architecture.",
+        "⚡ I have studied software engineering subjects like DS, Algorithms and Computer Architecture.",
         "⚡ Was a part of many engineering teams including UBC Open Robotics wheres I helped create a self playing piano robot.",
         "⚡ Created a wearable device using sensors and a Raspberry Pi to gather distant measurements from a test subjects foot to the ground as they walked. This was used by researchers at UBC to help understand why people fall",
       ],
@@ -338,6 +338,14 @@ const certifications = {
       certificate_link:
         "https://www.credly.com/badges/4e7bc5bb-4c20-421c-99ae-bb50951abcba/public_url",
       alt_name: "AWS Certified Cloud Practitioner",
+      color_code: "#ffffff",
+    },
+    {
+      title: "DevOps on AWS",
+      logo_path: "aws_logo.png",
+      certificate_link:
+        "https://coursera.org/share/6d7c73e64b0630aea83affdd52425c7c",
+      alt_name: "DevOps on AWS",
       color_code: "#ffffff",
     },
   ],
@@ -363,7 +371,7 @@ const experience = {
           duration: "September 2022 - May 2023",
           location: "Vancouver, BC, Canada",
           description:
-            "Helped improve the experience of engineering design teams at the University of British Columbia. This was done through improving application processing times, hosting office hours and for questions regarding design teams and several other adminstrative tasks.",
+            "Helped improve the experience of engineering design teams at the University of British Columbia. This was done through improving application processing times, hosting office hours for questions regarding design teams and several other adminstrative tasks.",
           color: "#000000",
         },
         {
